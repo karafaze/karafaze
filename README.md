@@ -3,7 +3,7 @@
 <main>
   <p>My name is Fazli. I used to be a sale and then I discovered programming :boom:.</p>
   </p>Quit my job and started learning Python on my own (webscrapping, web with Django, a bit of data with :panda_face:)</p>
-  <p>Started a course in may 2022 to learn Web Development with OpenClassrooms. Ended with a certification and new competencies : Javascript / React / NodeJS (ExpressJS) / Sass</p>
+  <p>Started a course in may 2022 to learn Web Development with OpenClassrooms. Got out with a certification and new competencies : Javascript / React / NodeJS (ExpressJS) / Sass</p>
 
   <p>Appart from that, I enjoy good music :musical_note:, mangas :ok_hand: and discussing with people :sun_with_face:.</p>
 

@@ -11,4 +11,4 @@
 </main>
 <hr>
 <p> </p>
-<footer>Feel free to reach me on Linkedin or Github for more </footer>
+<footer>Feel free to reach out to me on Linkedin or Github for more </footer>
